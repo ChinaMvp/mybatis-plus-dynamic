@@ -1,2 +1,3 @@
 # mybatis-plus-dynamic
-mybatis-plus动态使用多数据源
+
+这是一个springboot整合mybatis-plus和动态多数据源的示例。
